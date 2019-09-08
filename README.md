@@ -8,7 +8,6 @@
 
 -----
 
-* create a folder on local machine
 * git init FOLER_NAME
 * cd FOLDER_NAME
 * git remote add origin URL --- https://github.com/kodluyoruzveribilimibootcamp19/assignment1.git
