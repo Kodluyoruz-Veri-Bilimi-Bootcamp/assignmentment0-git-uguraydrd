@@ -12,8 +12,7 @@
 * cd FOLDER_NAME
 * find your assignment repo on your github account 
 * click clone or download and copy the URL
-* git remote add origin URL
-* git pull origin master
+* git clone URL
 
 ---
 
